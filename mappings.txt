@@ -1,0 +1,114 @@
+BBN,Orissa,East,RC_Orissa1
+PTN,Bihar,East,RC_Bihar1
+CHP,Bihar,East,RC_Bihar1
+PRN,Bihar,East,RC_Bihar1
+KTH,Bihar,East,RC_Bihar1
+GWH,Assam,East,RC_Guwahati1
+SHG,NE-1,East,RC_Guwahati1
+JRT,Assam,East,RC_Guwahati1
+ITA,NE-2,East,RC_Guwahati1
+KOL,West Bengal,East,RC_Kolkata1
+DRG,West Bengal,East,RC_Kolkata1
+SLG,West Bengal,East,RC_Kolkata1
+KGP,West Bengal,East,RC_Kolkata1
+CUT,Orissa,East,RC_Orissa1
+RRK,Orissa,East,RC_Orissa1
+BLN,Orissa,East,RC_Orissa1
+SMB,Orissa,East,RC_Orissa1
+RNC,Jharkhand,East,RC_Bihar2
+DNB,Jharkhand,East,RC_Bihar2
+JAM,Jharkhand,East,RC_Bihar2
+DMK,Jharkhand,East,RC_Bihar2
+BKR,Jharkhand,East,RC_Bihar2
+DSL,Himachal Pradesh,North,RC_Chandigarh1
+SRN,J & K,North,RC_Chandigarh1
+AMT,Haryana,North,RC_Chandigarh1
+CHD,Punjab,North,RC_Chandigarh1
+JAL,Haryana,North,RC_Chandigarh1
+BTN,Punjab,North,RC_Chandigarh1
+SML,Himachal Pradesh,North,RC_Chandigarh1
+SRR,Punjab,North,RC_Chandigarh1
+JMU,J & K,North,RC_Chandigarh1
+LDH,Punjab,North,RC_Chandigarh1
+DEL,Delhi-MTNL,North,RC_Delhi1
+GZD,UP-West,North,RC_Delhi1
+GGN,Rajasthan,North,RC_Delhi1
+HWN,Uttaranchal,North,RC_Delhi1
+MRT,UP-West,North,RC_Delhi1
+AGR,UP-West,North,RC_Delhi1
+DDN,Uttaranchal,North,RC_Delhi1
+KNP,UP-East,North,RC_Lucknow1
+VRN,UP-East,North,RC_Lucknow1
+GKP,UP-East,North,RC_Lucknow1
+JPR,Rajasthan,North,RC_Rajasthan1
+KTA,Rajasthan,North,RC_Rajasthan1
+LKO,UP-East,North,RC_Lucknow2
+BRL,UP-West,North,RC_Lucknow2
+ALH,UP-East,North,RC_Lucknow2
+JDP,Rajasthan,North,RC_Rajasthan2
+UDP,Rajasthan,North,RC_Rajasthan2
+BKN,Rajasthan,North,RC_Rajasthan2
+GNG,Rajasthan,North,RC_Rajasthan2
+KNL,Punjab,North,RC_Chandigarh2
+AMB,Punjab,North,RC_Chandigarh2
+PTL,Punjab,North,RC_Chandigarh2
+AHD,Gujarath,West,RC_Ahamadabad1
+JMN,Gujarath,West,RC_Ahamadabad1
+RJK,Gujarath,West,RC_Ahamadabad1
+BHP,Madhya Pradesh,West,RC_Bhopal1
+IND,Madhya Pradesh,West,RC_Bhopal1
+KLP,Maharashtra,West,RC_Mumbai1
+MUM,Maharashtra,West,RC_Mumbai1
+PNE,Maharashtra,West,RC_Mumbai1
+THN,Maharashtra,West,RC_Mumbai1
+BRD,Gujarath,West,RC_Ahamadabad2
+BVN,Gujarath,West,RC_Ahamadabad2
+GDN,Gujarath,West,RC_Ahamadabad2
+JNG,Gujarath,West,RC_Ahamadabad2
+SRT,Gujarath,West,RC_Ahamadabad2
+BHL,Chattisgarh,West,RC_Bhopal2
+BLS,Chattisgarh,West,RC_Bhopal2
+GWL,Madhya Pradesh,West,RC_Bhopal2
+JBL,Madhya Pradesh,West,RC_Bhopal2
+RPR,Chattisgarh,West,RC_Bhopal2
+STN,Madhya Pradesh,West,RC_Bhopal2
+ARG,Maharashtra,West,RC_Mumbai2
+KHM,Maharashtra,West,RC_Mumbai2
+NGP,Maharashtra,West,RC_Mumbai2
+NND,Maharashtra,West,RC_Mumbai2
+NSK,Maharashtra,West,RC_Mumbai2
+PNJ,Maharashtra,West,RC_Mumbai2
+BEL,Karnataka,South,RC_Bangalore2
+BGM,Karnataka,South,RC_Bangalore1
+BLR,Karnataka,South,RC_Bangalore1
+GLB,Karnataka,South,RC_Bangalore2
+HBL,Karnataka,South,RC_Bangalore2
+MNG,Karnataka,South,RC_Bangalore2
+MYS,Karnataka,South,RC_Bangalore2
+SHM,Karnataka,South,RC_Bangalore2
+TMK,Karnataka,South,RC_Bangalore2
+CMB,Tamilnadu,South,RC_Chennai1
+ERD,Tamilnadu,South,RC_Chennai1
+MAA,Tamilnadu,South,RC_Chennai1
+MDR,Tamilnadu,South,RC_Chennai1
+TRC,Tamilnadu,South,RC_Chennai1
+HYD,Andhra Pradesh,South,RC_Hyderabad1
+MBB,Andhra Pradesh,South,RC_Hyderabad2
+NEL,Andhra Pradesh,South,RC_Hyderabad2
+NLG,Andhra Pradesh,South,RC_Hyderabad2
+NZM,Andhra Pradesh,South,RC_Hyderabad2
+RJM,Andhra Pradesh,South,RC_Hyderabad2
+TPT,Andhra Pradesh,South,RC_Hyderabad2
+VJW,Andhra Pradesh,South,RC_Hyderabad1
+VZG,Andhra Pradesh,South,RC_Hyderabad2
+WRG,Andhra Pradesh,South,RC_Hyderabad2
+ALP,Kerala,South,RC_Trivandrum1
+COC,Kerala,South,RC_Trivandrum1
+KTM,Kerala,South,RC_Trivandrum1
+KZH,Kerala,South,RC_Trivandrum1
+TCH,Kerala,South,RC_Trivandrum1
+TVL,Kerala,South,RC_Trivandrum1
+TVM,Kerala,South,RC_Trivandrum1
+KRM,Andhra Pradesh,South,RC_Hyderabad1
+ADL,Andhra Pradesh,South,RC_Hyderabad2
+MLD,West Bengal,East,RC_Kolkata1
